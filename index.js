@@ -2,7 +2,10 @@
 // @name        Force show NSFW posts on Twitter
 // @namespace   Peach Scripts
 // @match       https://twitter.com/*
-// @version     0.1
+// @homepageURL https://github.com/peach-porn/twitter-userscripts/tree/main
+// @updateURL   https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.js
+// @downloadURL https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.js
+// @version     1.0
 // @author      Peach.Porn team
 // @grant       GM_addStyle
 // @description 4/11/2024, 3:40:38 PM
