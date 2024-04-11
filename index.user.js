@@ -5,7 +5,7 @@
 // @homepageURL https://github.com/peach-porn/twitter-userscripts/tree/main
 // @updateURL   https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.user.js
 // @downloadURL https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.user.js
-// @version     1.0
+// @version     1.1
 // @author      Peach.Porn team
 // @grant       GM_addStyle
 // @description 4/11/2024, 3:40:38 PM
@@ -17,7 +17,7 @@ GM_addStyle(`
     filter: none !important;
   }
 
-  article div[aria-labelledby] > div > div > div > div > div:last-child {
+  article div[aria-labelledby] > div > div > div > div > div:nth-child(2) {
     display: none !important;
   }
 `)
