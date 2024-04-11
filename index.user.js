@@ -3,8 +3,8 @@
 // @namespace   Peach Scripts
 // @match       https://twitter.com/*
 // @homepageURL https://github.com/peach-porn/twitter-userscripts/tree/main
-// @updateURL   https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.js
-// @downloadURL https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.js
+// @updateURL   https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.user.js
+// @downloadURL https://raw.githubusercontent.com/peach-porn/twitter-userscripts/main/index.user.js
 // @version     1.0
 // @author      Peach.Porn team
 // @grant       GM_addStyle
